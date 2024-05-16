@@ -6,7 +6,7 @@ public class git giMain {
     public static void main(String[] args) {
         // Press Alt+Eingabe with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
-        System.out.printf("Helloddd Marwa!");
+        System.out.printf("technikumm wien!");
 
 got
 
