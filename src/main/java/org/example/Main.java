@@ -6,6 +6,7 @@ public class Main{
         String str;
         int num;
 
+
         System.out.printf("technikumm wien!");
 
     }
